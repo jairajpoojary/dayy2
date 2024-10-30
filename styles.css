@@ -1,0 +1,51 @@
+
+html,
+body {
+    background-color: #A9D7D1;
+    font-family: 'Raleway', Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+#container {
+    background: rgb(250, 250, 250);
+    width: 800px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.Left {
+    display: inline-block;
+    text-align: right;
+    width: 48%;
+    padding-right: 10px;
+}
+
+.Right {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    width: 48%;
+}
+
+#title {
+    font-size: 24px;
+    text-align: center;
+}
+
+#name,
+#email,
+#number {
+    width: 150px;
+}
+
+
